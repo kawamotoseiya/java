@@ -4,6 +4,7 @@ import polymorphism.human.Employee;
 import polymorphism.human.Human;
 import polymorphism.human.Student;
 
+
 public class Polymorphism01 {
     public static void main(String[] args) {
         Human human1 = new Student("佐藤", 17, 70);
